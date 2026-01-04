@@ -5,6 +5,17 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2512.07005-b31b1b.svg)](https://www.arxiv.org/abs/2512.07005)
 [![ACM DL](https://img.shields.io/badge/ACM%20DL-10.1145%2F3746027.3758210-blue)](https://dl.acm.org/doi/10.1145/3746027.3758210)
 
+> 📢 **Recommendation: Fully Open-Source Alternatives**
+>
+> While MADVSD focuses on regional accents and is currently restricted due to privacy protocols, we offer a **fully open-source** sister project for the singing voice research community.
+>
+> Please check out **VocalVerse**, which includes:
+> * **Code** (Training, Inference)
+> * **Data** (Human-annotated text labels, Raw singing audio)
+> * **Model Weights** (Pre-trained weights, Fine-tuned LoRA weights)
+>
+> 👉 **Link:** [**https://github.com/CarlWangChina/QwenFeat-Vocal-Score**](https://github.com/CarlWangChina/QwenFeat-Vocal-Score)
+
 ---
 
 ## 🗺️ Regional Distribution Visualization
@@ -77,10 +88,6 @@ To demonstrate the quality and existence of the dataset, we have provided:
   <img src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" width="30%" />
 </div>
 
-### Recommended Alternatives
-* **For Singing Evaluation:** If you are working on singing voice assessment or related tasks, we recommend checking our related project: [**QwenFeat-Vocal-Score**](https://github.com/CarlWangChina/QwenFeat-Vocal-Score).
-* **For Other Singing Data:** Please refer to our sister project **VocalVerse** (details forthcoming) for open-source singing resources.
-
 ---
 
 ## 📝 Citation
@@ -110,10 +117,19 @@ If you reference this work or the concepts presented, please cite our paper:
    series = {MM '25}
 }
 ```
-
 # MADVSD: 多口音普通话干声清唱数据集
 
 **[论文] Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition** *Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)*
+
+> 📢 **特别提示：开源资源推荐**
+>
+> MADVSD 数据集专注于区域口音研究，因涉及隐私目前暂未公开下载。如果您正在寻找**完全开源**的歌唱领域资源，我们强烈推荐您关注我们的姐妹项目 **VocalVerse**。该项目包含：
+>
+> * **代码**（含训练、推理）
+> * **数据**（含人工标注文本 Label、原始歌唱音频）
+> * **模型权重**（含预训练权重和微调 LoRA 权重）
+>
+> 👉 **项目地址：** [**https://github.com/CarlWangChina/QwenFeat-Vocal-Score**](https://github.com/CarlWangChina/QwenFeat-Vocal-Score)
 
 ---
 
@@ -121,7 +137,9 @@ If you reference this work or the concepts presented, please cite our paper:
 
 为了给读者提供直观的参考，我们在本项目仓库中展示了数据集的说话人地理分布图。我们在论文正文中并未包含此图，您可以在下方查看高清版本。该地图通过颜色编码将中国地理划分为九个不同的口音区域，以可视化说话人的分布情况。
 
-![Figure_Regional_Distribution_01](https://github.com/user-attachments/assets/20855b87-4602-468c-89b0-83caf3991d3f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/20855b87-4602-468c-89b0-83caf3991d3f" width="60%" />
+</div>
 
 > **MADVSD数据集的区域口音分布、说话人统计及录音内容**
 >
@@ -182,10 +200,6 @@ If you reference this work or the concepts presented, please cite our paper:
   <img src="https://github.com/user-attachments/assets/e6830e2f-591e-448e-a99f-a26037a0bc39" width="30%" />
   <img src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" width="30%" />
 </div>
-
-### 相关推荐
-* **歌唱评价研究：** 如果您正在从事歌唱评分或相关工作，欢迎参考我们的另一个开源项目：[**QwenFeat-Vocal-Score**](https://github.com/CarlWangChina/QwenFeat-Vocal-Score)。
-* **其他歌唱数据：** 对于开源的歌唱资源，请关注我们的姐妹项目 **VocalVerse**。
 
 ---
 
