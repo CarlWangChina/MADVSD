@@ -39,10 +39,11 @@ To address this, we introduce **MADVSD** (Multi-Accent Mandarin Dry-Vocal Singin
 
 In addition to the dataset information, we provide the following resources in this repository to assist researchers in understanding our data collection protocols:
 
-* **`Protocol_Phonetic_Exercises_EN.docx` / `_CN.docx`**: The standardized instructions given to participants for the phonetic vowel and scale exercises (available in English and Chinese).
-* **`Recording_Guidelines_and_Standards.docx`**: The detailed technical requirements and content standards provided to the participants to ensure recording quality.
-* **`samples/`**: A folder containing sample audio files.
-* **`Figure_Regional_Distribution.pdf`**: The high-resolution vector version of the regional distribution map.
+* **`Figure_Regional_Distribution.pdf`**: The high-resolution version of the speaker regional distribution map.
+* **`samples/`**: A folder containing audio samples.
+* **`Protocol_Phonetic_Exercises_EN.docx` / `_CN.docx`**: The standardized "vowels and scales" recording instructions distributed to participants (available in English and Chinese).
+* **`Recording_Guidelines_and_Standards.docx`**: Detailed technical requirements and content standards for the recording materials.
+* **`Statistics_Recording_Center_Distribution.pdf` / `.xlsx`**: Detailed statistics on the quantity and distribution of regional recording centers participating in the data collection.
 
 ---
 
@@ -139,12 +140,11 @@ If you reference this work or the concepts presented, please cite our paper:
 ## 📂 仓库文件结构与资源
 
 除了数据集介绍外，我们在本仓库中还提供了以下文件，帮助研究人员了解我们的数据采集标准：
-
+* **`Figure_Regional_Distribution.pdf`**：说话人区域分布地图的高清版。
+* * **`samples/`**：包含音频样本的文件夹。
 * **`Protocol_Phonetic_Exercises_EN.docx` / `_CN.docx`**：发放给参与者的标准化“元音与音阶”录音指导手册（含中英文版）。
-* **`Recording_Guidelines_and_Standards.docx`**：员工录音素材的详细技术要求与演唱内容标准。
-* **`samples/`**：包含音频样本的文件夹。
-* **`Figure_Regional_Distribution.pdf`**：区域分布地图的高清矢量版。
-
+* **`Recording_Guidelines_and_Standards.docx`**：录音素材的详细技术要求与演唱内容标准。
+* **`Statistics_Recording_Center_Distribution.pdf` / `.xlsx`**: 参与本次数据采集的各区域录音中心数量与分布的详细统计数据。
 ---
 
 ## 🔒 数据可用性与隐私声明
