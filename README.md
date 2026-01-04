@@ -74,6 +74,20 @@ To demonstrate the quality and existence of the dataset, we have provided:
 <img width="1124" height="1572" alt="ScreenShot_2026-01-04_150407_043" src="https://github.com/user-attachments/assets/e6830e2f-591e-448e-a99f-a26037a0bc39" />
 <img width="1356" height="1322" alt="ScreenShot_2026-01-04_150511_220" src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" />
 
+### Samples and Verification
+To demonstrate the quality and existence of the dataset, we have provided:
+
+1.  **Sample Audio:** A small set of 4 audio files from **2 representative speakers** (one Male from Henan, one Female from Beijing) can be found in the `samples/` folder. These include both song performances and phonetic exercises.
+2.  **Dataset Structure:** Below is a screenshot of the full dataset directory (hosted on private storage), demonstrating the scale of the data collected.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/92c258fb-e6c5-443b-ac01-0ded571c45df" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9737c2ef-4544-4428-9ae4-e309b2b33a00" width="30%" />
+  <img src="https://github.com/user-attachments/assets/98544c75-6177-44e6-9621-86aa0a90c13a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/02be5a54-e157-4239-8478-6b6663509758" width="30%" />
+  <img src="https://github.com/user-attachments/assets/e6830e2f-591e-448e-a99f-a26037a0bc39" width="30%" />
+  <img src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" width="30%" />
+</div>
 
 ### Recommended Alternatives
 * **For Singing Evaluation:** If you are working on singing voice assessment or related tasks, we recommend checking our related project: [**QwenFeat-Vocal-Score**](https://github.com/CarlWangChina/QwenFeat-Vocal-Score).
