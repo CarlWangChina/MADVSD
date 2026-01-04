@@ -11,8 +11,10 @@
 
 For readers interested in a visual reference regarding the dataset's geographical coverage, we provide the high-resolution visualization of the speaker distribution below. This map color-codes the geography into nine distinct regions to visualize the speaker distribution across China.
 
-![Regional Accent Distribution](Figure_Regional_Distribution.pdf)
+![Regional Accent Distribution](.\Figure_Regional_Distribution.pdf)
 *(Note: Please ensure the image file is converted to an image format like PNG/JPG for display if PDF rendering is not supported by your markdown viewer)*
+<img width="530" height="114" alt="image" src="https://github.com/user-attachments/assets/799519d2-64c7-4a21-b305-8893e7c85d5d" />
+
 
 > **Regional Accent Distribution, Speaker Demographics, and Recording Content of the MADVSD Dataset.**
 >
