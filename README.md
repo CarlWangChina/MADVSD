@@ -11,8 +11,9 @@
 
 For readers interested in a visual reference regarding the dataset's geographical coverage, we provide the high-resolution visualization of the speaker distribution below. This map color-codes the geography into nine distinct regions to visualize the speaker distribution across China.
 
-![Figure_Regional_Distribution_01](https://github.com/user-attachments/assets/20855b87-4602-468c-89b0-83caf3991d3f)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/20855b87-4602-468c-89b0-83caf3991d3f" width="60%" />
+</div>
 
 > **Regional Accent Distribution, Speaker Demographics, and Recording Content of the MADVSD Dataset.**
 >
@@ -60,19 +61,6 @@ Releasing this data publicly poses significant risks, including:
 2.  **Potential for Misuse:** High-quality voice data paired with identity verification can be exploited for malicious purposes, such as deepfakes or telecommunications fraud.
 
 We are currently undergoing legal review to explore licensing frameworks that might allow for controlled access in the future. We appreciate your patience and understanding as we prioritize the safety and rights of our participants.
-
-### Samples and Verification
-To demonstrate the quality and existence of the dataset, we have provided:
-
-1.  **Sample Audio:** A small set of 4 audio files from **2 representative speakers** (one Male from Henan, one Female from Beijing) can be found in the `samples/` folder. These include both song performances and phonetic exercises.
-2.  **Dataset Structure:** Below is a screenshot of the full dataset directory (hosted on private storage), demonstrating the scale of the data collected.
-
-<img width="956" height="1066" alt="ScreenShot_2026-01-04_150236_959" src="https://github.com/user-attachments/assets/92c258fb-e6c5-443b-ac01-0ded571c45df" />
-<img width="968" height="922" alt="ScreenShot_2026-01-04_150244_350" src="https://github.com/user-attachments/assets/9737c2ef-4544-4428-9ae4-e309b2b33a00" />
-<img width="982" height="1072" alt="ScreenShot_2026-01-04_150303_473" src="https://github.com/user-attachments/assets/98544c75-6177-44e6-9621-86aa0a90c13a" />
-<img width="1732" height="980" alt="ScreenShot_2026-01-04_150609_931" src="https://github.com/user-attachments/assets/02be5a54-e157-4239-8478-6b6663509758" />
-<img width="1124" height="1572" alt="ScreenShot_2026-01-04_150407_043" src="https://github.com/user-attachments/assets/e6830e2f-591e-448e-a99f-a26037a0bc39" />
-<img width="1356" height="1322" alt="ScreenShot_2026-01-04_150511_220" src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" />
 
 ### Samples and Verification
 To demonstrate the quality and existence of the dataset, we have provided:
@@ -186,13 +174,14 @@ If you reference this work or the concepts presented, please cite our paper:
 1.  **音频样本：** `samples/` 文件夹中包含来自 **2位代表性说话人**（一位河南男性，一位北京女性）的共 **4个音频文件**。样本包含歌曲清唱和音阶练习两种类型。
 2.  **数据规模概览：** 下图展示了存储在私有云端的数据集完整目录结构截图（已对敏感信息打码），以证明数据规模的真实性。
 
-<img width="956" height="1066" alt="ScreenShot_2026-01-04_150236_959" src="https://github.com/user-attachments/assets/92c258fb-e6c5-443b-ac01-0ded571c45df" />
-<img width="968" height="922" alt="ScreenShot_2026-01-04_150244_350" src="https://github.com/user-attachments/assets/9737c2ef-4544-4428-9ae4-e309b2b33a00" />
-<img width="982" height="1072" alt="ScreenShot_2026-01-04_150303_473" src="https://github.com/user-attachments/assets/98544c75-6177-44e6-9621-86aa0a90c13a" />
-<img width="1732" height="980" alt="ScreenShot_2026-01-04_150609_931" src="https://github.com/user-attachments/assets/02be5a54-e157-4239-8478-6b6663509758" />
-<img width="1124" height="1572" alt="ScreenShot_2026-01-04_150407_043" src="https://github.com/user-attachments/assets/e6830e2f-591e-448e-a99f-a26037a0bc39" />
-<img width="1356" height="1322" alt="ScreenShot_2026-01-04_150511_220" src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" />
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/92c258fb-e6c5-443b-ac01-0ded571c45df" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9737c2ef-4544-4428-9ae4-e309b2b33a00" width="30%" />
+  <img src="https://github.com/user-attachments/assets/98544c75-6177-44e6-9621-86aa0a90c13a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/02be5a54-e157-4239-8478-6b6663509758" width="30%" />
+  <img src="https://github.com/user-attachments/assets/e6830e2f-591e-448e-a99f-a26037a0bc39" width="30%" />
+  <img src="https://github.com/user-attachments/assets/47e62d0f-5f42-4c2d-8479-62413945ee64" width="30%" />
+</div>
 
 ### 相关推荐
 * **歌唱评价研究：** 如果您正在从事歌唱评分或相关工作，欢迎参考我们的另一个开源项目：[**QwenFeat-Vocal-Score**](https://github.com/CarlWangChina/QwenFeat-Vocal-Score)。
