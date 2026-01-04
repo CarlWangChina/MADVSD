@@ -1,4 +1,4 @@
-# MADVSD: Multi-Accent Mandarin Dry-Vocal Singing Dataset
+![Figure_Regional_Distribution_01](https://github.com/user-attachments/assets/6a99d711-323a-45db-81ec-194881d51f7f)# MADVSD: Multi-Accent Mandarin Dry-Vocal Singing Dataset
 
 **[Paper] Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition** *Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)*
 
@@ -11,9 +11,7 @@
 
 For readers interested in a visual reference regarding the dataset's geographical coverage, we provide the high-resolution visualization of the speaker distribution below. This map color-codes the geography into nine distinct regions to visualize the speaker distribution across China.
 
-![Regional Accent Distribution](.\Figure_Regional_Distribution.pdf)
-*(Note: Please ensure the image file is converted to an image format like PNG/JPG for display if PDF rendering is not supported by your markdown viewer)*
-<img width="530" height="114" alt="image" src="https://github.com/user-attachments/assets/799519d2-64c7-4a21-b305-8893e7c85d5d" />
+![Figure_Regional_Distribution_01](https://github.com/user-attachments/assets/20855b87-4602-468c-89b0-83caf3991d3f)
 
 
 > **Regional Accent Distribution, Speaker Demographics, and Recording Content of the MADVSD Dataset.**
@@ -115,7 +113,7 @@ If you reference this work or the concepts presented, please cite our paper:
 
 为了给读者提供直观的参考，我们在本项目仓库中展示了数据集的说话人地理分布图。我们在论文正文中并未包含此图，您可以在下方查看高清版本。该地图通过颜色编码将中国地理划分为九个不同的口音区域，以可视化说话人的分布情况。
 
-![区域口音分布图](Figure_Regional_Distribution.pdf)
+![Figure_Regional_Distribution_01](https://github.com/user-attachments/assets/20855b87-4602-468c-89b0-83caf3991d3f)
 
 > **MADVSD数据集的区域口音分布、说话人统计及录音内容**
 >
