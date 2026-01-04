@@ -1,4 +1,4 @@
-![Figure_Regional_Distribution_01](https://github.com/user-attachments/assets/6a99d711-323a-45db-81ec-194881d51f7f)# MADVSD: Multi-Accent Mandarin Dry-Vocal Singing Dataset
+# MADVSD: Multi-Accent Mandarin Dry-Vocal Singing Dataset
 
 **[Paper] Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition** *Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)*
 
